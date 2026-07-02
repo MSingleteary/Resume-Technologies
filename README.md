@@ -19,6 +19,16 @@ Every implementation is documented with:
 
 ---
 
+## Why I Built This Project
+
+After several years working in Enterprise IT Support, I wanted to develop the practical engineering skills required to transition into a Cloud Engineering role.
+
+Rather than only studying for certifications, I decided to build an enterprise-style Azure environment that reflects real-world responsibilities such as identity management, networking, governance, monitoring, security, automation, and incident response.
+
+This repository documents not only what I built, but why I built it, the engineering decisions I made, and the lessons I learned throughout the project.
+
+---
+
 ## Project Goals
 
 - Build an enterprise Azure environment from the ground up
